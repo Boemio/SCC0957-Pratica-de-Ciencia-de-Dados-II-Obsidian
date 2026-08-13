@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7538ba3eca7a7eb0",
+        "id": "2cccb0b58fa4f8fd",
         "type": "tabs",
         "children": [
           {
-            "id": "42dadad4eaedf14c",
+            "id": "861688267f542711",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Relatório Contínuo/2026-08-13 - 2ª Nota.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "2026-08-13 - 2ª Nota"
             }
           }
         ]
@@ -210,19 +210,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42dadad4eaedf14c",
+  "active": "861688267f542711",
   "lastOpenFiles": [
-    "Descrição do Projeto/Sobre os Dados/Dados da dengue do SINAN.md",
+    "Relatório Contínuo/2026-08-13 - 1ª Nota.md",
     "Descrição do Projeto/Sobre os Dados/Dados do censo do IBGE.md",
+    "Descrição do Projeto/Sobre os Dados/Dados da dengue do SINAN.md",
+    "Organização do Projeto/To-do list.md",
+    "Descrição do Projeto/Sobre os Dados/Dados do clima no Earth Engine.md",
+    "Relatório Contínuo/2026-08-13 - 2ª Nota.md",
     "Arquivos/DIC_DADOS_ONLINE.pdf",
     "Arquivos/Ficha_DENGCHIK_FINAL.pdf",
-    "Relatório Contínuo/2026-08-13 - 2ª Nota.md",
-    "Relatório Contínuo/2026-08-13 - 1ª Nota.md",
     "SCC0957 - Prática de Ciência de Dados II.md",
-    "Descrição do Projeto/Sobre os Dados/Dados do clima no Earth Engine.md",
     "Sem título.canvas",
     "Arquivos",
-    "Organização do Projeto/To-do list.md",
     "Bem-vindo.md",
     "Relatório Contínuo",
     "Descrição do Projeto/Sobre os Dados",
