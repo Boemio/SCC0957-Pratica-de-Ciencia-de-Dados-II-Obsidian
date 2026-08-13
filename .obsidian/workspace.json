@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Relatório Contínuo/2026-08-13 - 2ª Nota.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-08-13 - 2ª Nota"
+              "title": "README"
             }
           }
         ]
@@ -210,17 +210,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "861688267f542711",
+  "active": "52a498524abc81ed",
   "lastOpenFiles": [
+    "SCC0957 - Prática de Ciência de Dados II.md",
+    "README.md",
+    "Relatório Contínuo/2026-08-13 - 2ª Nota.md",
+    "R.md",
     "Relatório Contínuo/2026-08-13 - 1ª Nota.md",
     "Descrição do Projeto/Sobre os Dados/Dados do censo do IBGE.md",
     "Descrição do Projeto/Sobre os Dados/Dados da dengue do SINAN.md",
     "Organização do Projeto/To-do list.md",
     "Descrição do Projeto/Sobre os Dados/Dados do clima no Earth Engine.md",
-    "Relatório Contínuo/2026-08-13 - 2ª Nota.md",
     "Arquivos/DIC_DADOS_ONLINE.pdf",
     "Arquivos/Ficha_DENGCHIK_FINAL.pdf",
-    "SCC0957 - Prática de Ciência de Dados II.md",
     "Sem título.canvas",
     "Arquivos",
     "Bem-vindo.md",
