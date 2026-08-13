@@ -10,3 +10,4 @@
 - Achar áreas de risco e alta suscetibilidade para a doença, com a intenção de identificar locais que precisam de mais atenção ao combate a doença e que possuem pessoas com maior risco de contaminação.
 ## Repositório do GitHub
 - [Link](https://github.com/Romulol-B/Pysus-IBGE)
+algo
