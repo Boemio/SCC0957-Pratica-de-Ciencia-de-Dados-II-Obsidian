@@ -1,0 +1,4 @@
+## Objetivos
+* Consolidar as bases de dados 
+* Descrever as bases no obsidian
+* Decidir o que faremos com a base de dados de clima
