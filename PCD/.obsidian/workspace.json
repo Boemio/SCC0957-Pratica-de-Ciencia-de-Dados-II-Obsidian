@@ -1,24 +1,40 @@
 {
   "main": {
-    "id": "ac35a46437d93683",
+    "id": "3ab4061b4de9c8d4",
     "type": "split",
     "children": [
       {
-        "id": "7538ba3eca7a7eb0",
+        "id": "a4fd58eca0a1e744",
         "type": "tabs",
         "children": [
           {
-            "id": "42dadad4eaedf14c",
+            "id": "1c317095a0fd687b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Descrição do Projeto/Sobre os Dados/API do IBGE SIDRA.md",
+                "file": "Bem-vindo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "API do IBGE SIDRA"
+              "title": "Bem-vindo"
+            }
+          }
+        ]
+      },
+      {
+        "id": "25259dec90ca51eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4be902bed8f3427b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
         ]
@@ -27,15 +43,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b01eb061d1bb837f",
+    "id": "23d9c4f9776fd52c",
     "type": "split",
     "children": [
       {
-        "id": "754f6e01d7e98c62",
+        "id": "0ecb9af5c986f394",
         "type": "tabs",
         "children": [
           {
-            "id": "52a498524abc81ed",
+            "id": "fb0df7b9b627efd0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -50,7 +66,7 @@
             }
           },
           {
-            "id": "adb458034347ce5d",
+            "id": "6f7c1d0b60a5c2da",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,7 +83,7 @@
             }
           },
           {
-            "id": "183295bc2117b3f9",
+            "id": "4e115aae381e9c6c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -86,15 +102,15 @@
     "width": 300
   },
   "right": {
-    "id": "52d7a65f4e1d0b6e",
+    "id": "c7693b5773886c23",
     "type": "split",
     "children": [
       {
-        "id": "feed30d8b2c4b121",
+        "id": "0ed2d5e63410fa09",
         "type": "tabs",
         "children": [
           {
-            "id": "8bd65dc85e9e91b6",
+            "id": "4708266866eafae6",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -113,7 +129,7 @@
             }
           },
           {
-            "id": "aff4bfab06938031",
+            "id": "1fbc6a767401644e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -127,7 +143,7 @@
             }
           },
           {
-            "id": "e2885463b58694ab",
+            "id": "94fc07e1fb34db86",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -142,7 +158,7 @@
             }
           },
           {
-            "id": "a320dfd6973971c1",
+            "id": "4d0aaeb08c045616",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -156,7 +172,7 @@
             }
           },
           {
-            "id": "f811baab0e9026a4",
+            "id": "dd5df94a6d8bb6d2",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -169,33 +185,13 @@
               "icon": "lucide-list",
               "title": "Sumário"
             }
-          },
-          {
-            "id": "15b690b05e514ea9",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
-            }
-          },
-          {
-            "id": "093e2229007b1c00",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,32 +201,11 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Criar nova base": false
     }
   },
-  "active": "42dadad4eaedf14c",
+  "active": "1c317095a0fd687b",
   "lastOpenFiles": [
-    "Descrição do Projeto/Sobre os Dados/Dados do Censo do IBGE.md",
-    "Descrição do Projeto/Sobre os Dados/Dados da dengue do SINAN.md",
-    "Relatório Contínuo/2026-08-13 - 3ª Nota.md",
-    "Relatório Contínuo/2026-08-13 - 2ª Nota.md",
-    "Relatório Contínuo/2026-08-13 - 1ª Nota.md",
-    "Relatório Contínuo",
-    "README.md",
-    "Arquivos/Ficha_DENGCHIK_FINAL.pdf",
-    "Arquivos/DIC_DADOS_ONLINE.pdf",
-    "Arquivos",
-    "Organização do Projeto/To-do list.md",
-    "tmp.json",
-    "Descrição do Projeto/Sobre os Dados/API do IBGE SIDRA.md~",
-    "Descrição do Projeto/Sobre os Dados/API do IBGE SIDRA.md",
-    "Descrição do Projeto/Sobre os Dados/Dados do Clima no Earth Engine.md",
-    "SCC0957 - Prática de Ciência de Dados II.md",
-    "Sem título.canvas",
-    "Descrição do Projeto/Sobre os Dados",
-    "Descrição do Projeto",
-    "Organização do Projeto"
+    "Bem-vindo.md"
   ]
 }
