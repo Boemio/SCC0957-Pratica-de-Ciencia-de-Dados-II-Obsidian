@@ -5,6 +5,7 @@
 - [x] Baixar os dados de Clima do Earth Engine 📅 2026-08-13 ✅ 2026-08-20
 - [ ] Análise Exploratória apenas dos dados do SINAN📅 2026-08-27
 - [ ] Explorar os schemas das tabelas do SIDRA📅 2026-08-27
+- [ ] Selecionar Agregações de cada tabela do SIDRA.
 
 ---
 ## Segunda Etapa: Interpretação visual de propriedade da informação integrada
