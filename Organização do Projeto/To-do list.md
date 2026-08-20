@@ -2,7 +2,7 @@
 
 - [x] Baixar os dados da Dengue do SINAN 📅 2026-08-13 ✅ 2026-08-13
 - [ ] Baixar os dados do IBGE 📅 2026-08-13 .
-- [ ] Baixar os dados de Clima do Earth Engine📅 2026-08-13 
+- [x] Baixar os dados de Clima do Earth Engine 📅 2026-08-13 ✅ 2026-08-20
 - [ ] Análise Exploratória apenas dos dados do SINAN📅 2026-08-27
 - [ ] Explorar os schemas das tabelas do SIDRA📅 2026-08-27
 
