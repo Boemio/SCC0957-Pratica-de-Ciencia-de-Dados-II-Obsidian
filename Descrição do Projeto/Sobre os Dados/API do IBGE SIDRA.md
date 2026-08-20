@@ -3,6 +3,14 @@ API do IBGE
 ## Fazendo uma requisiçao por meio do site.
 https://sidra.ibge.gov.br/acervo
 
+A maneira mais facíl :
+https://sidra.ibge.gov.br/acervo#/
+1. Selecionar um assunto de interesse : Exemplo tratamento de esgoto.
+2. Selecionar o nivel territorial .
+3. Adicionar outros filtros periodo,pesquisa etc.
+4. Acessar o link da tabela de agregados.
+Modificar como a tabela , adicionar variaveis etc.
+Por fim no final da pagina barra azul tem a penultima opção de salvar criar o link crie e adicione aqui:[[tabelas]]
 
 ## Como a requisiçao e feita na API
 ### Campos:
@@ -17,5 +25,6 @@ https://sidra.ibge.gov.br/acervo
 * Nível Territorial: cada um dos diferentes tipos de divisão territorial espacialmente associados aos dados de uma tabela. Ex: Unidade da Federação, Grande Região, Município etc
 * Unidade Territorial: cada um dos componentes de um nível territorial. Ex: para o nível territorial Unidade da Federação, temos Pernambuco, Rio de Janeiro, São Paulo etc.
 
+##### EXEMPLO:
 ### https://servicodados.ibge.gov.br/api/v3/agregados/{agregado}/periodos/{periodos}/variaveis/{variavel}
 
