@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organização do Projeto/To-do list.md",
+                "file": "Relatório Contínuo/2026-08-20 - 1ª Nota.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "To-do list"
+              "title": "2026-08-20 - 1ª Nota"
             }
           }
         ],
@@ -225,20 +225,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "093e2229007b1c00",
+  "active": "13c2e9a6bf3ef7c9",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Relatório Contínuo/2026-08-13 - 1ª Nota.md",
+    "Relatório Contínuo/2026-08-20 - 1ª Nota.md",
+    "README.md",
     "Organização do Projeto/To-do list.md",
+    "Relatório Contínuo/Sem título",
+    "conflict-files-obsidian-git.md",
     "Relatório Contínuo/2026-08-13 - 3ª Nota.md",
     "Descrição do Projeto/Sobre os Dados/API do IBGE SIDRA.md",
     "Descrição do Projeto/Sobre os Dados/Dados da dengue do SINAN.md",
     "Descrição do Projeto/Sobre os Dados/Dados do clima no Earth Engine.md",
     "Descrição do Projeto/Sobre os Dados/Dados do censo do IBGE.md",
-    "README.md",
     "Relatório Contínuo/2026-08-13 - 2ª Nota.md",
     "PCD/Bem-vindo.md",
     "PCD",
-    "Relatório Contínuo/2026-08-13 - 1ª Nota.md",
     "SCC0957 - Prática de Ciência de Dados II.md",
     "R.md",
     "Arquivos/DIC_DADOS_ONLINE.pdf",
