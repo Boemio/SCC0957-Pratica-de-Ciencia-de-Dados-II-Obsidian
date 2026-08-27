@@ -1,0 +1,47 @@
+[
+  {
+    "NC": "Nível Territorial (Código)",
+    "NN": "Nível Territorial",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor",
+    "D1C": "Brasil (Código)",
+    "D1N": "Brasil",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Ano (Código)",
+    "D3N": "Ano",
+    "D4C": "Forma de execução do serviço (Código)",
+    "D4N": "Forma de execução do serviço"
+  },
+  {
+    "NC": "1",
+    "NN": "Brasil",
+    "MC": "1020",
+    "MN": "Unidades",
+    "V": "5564",
+    "D1C": "1",
+    "D1N": "Brasil",
+    "D2C": "2601",
+    "D2N": "Municípios com serviço de esgotamento sanitário",
+    "D3C": "2008",
+    "D3N": "2008",
+    "D4C": "120945",
+    "D4N": "Total geral de municípios"
+  },
+  {
+    "NC": "1",
+    "NN": "Brasil",
+    "MC": "2",
+    "MN": "Percentual",
+    "V": "100.00000",
+    "D1C": "1",
+    "D1N": "Brasil",
+    "D2C": "1002601",
+    "D2N": "Municípios com serviço de esgotamento sanitário - percentual do total geral",
+    "D3C": "2008",
+    "D3N": "2008",
+    "D4C": "120945",
+    "D4N": "Total geral de municípios"
+  }
+]

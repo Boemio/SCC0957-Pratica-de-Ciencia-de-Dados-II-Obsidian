@@ -136,21 +136,21 @@ Selection logic: these tables were selected because they can proxy dengue exposu
 | 1782 | Numero de distritos, total e os com servico de abastecimento de agua, por existencia e motivo do racionamento | Older rationing indicator. |
 | 1784 | Numero de distritos, total e os com racionamento de agua, por periodicidade do racionamento | Older rationing periodicity indicator. |
 
-### 208 - Aglomerado subnormal
+### 208 - Aglomerado subnormalx
 
-| SIDRA table | Table name | Why use it |
-|---|---|---|
-| 3379 | Domicilios particulares ocupados e Populacao residente em domicilios particulares ocupados, nos municipios com presenca identificada de aglomerados subnormais, total e em aglomerados subnormais, e Numero de aglomerados subnormais | Size of informal-settlement population and household exposure. |
-| 3380 | Domicilios particulares ocupados em aglomerados subnormais e Media de moradores em domicilios particulares ocupados em aglomerados subnormais | Crowding in informal settlements. |
-| 3381 | Populacao residente em domicilios particulares ocupados em aglomerados subnormais, por sexo | Population denominator by sex. |
-| 3382 | Domicilios particulares permanentes em aglomerados subnormais, por forma de abastecimento de agua | Water source in informal settlements. |
-| 3383 | Domicilios particulares permanentes em aglomerados subnormais, por tipo de esgotamento sanitario | Sanitation conditions in informal settlements. |
-| 3384 | Domicilios particulares permanentes em aglomerados subnormais, por destino do lixo | Garbage disposal in informal settlements. |
-| 4013 | Domicilios particulares permanentes em aglomerados subnormais, por caracteristicas e localizacao predominantes do sitio urbano | Urban site characteristics. |
-| 4017 | Domicilios particulares permanentes em aglomerados subnormais, por acessibilidade possivel na maior parte das vias internas | Access constraints for surveillance and vector control. |
-| 4018 | Domicilios particulares permanentes em aglomerados subnormais, por numero de pavimentos predominante nas construcoes | Built-environment density proxy. |
-| 4019 | Domicilios particulares permanentes em aglomerados subnormais, por espacamento predominante entre as construcoes | Housing spacing and density proxy. |
-| 1427 | Domicilios particulares permanentes, por classes de rendimento nominal mensal domiciliar per capita, segundo o tipo de setor e a situacao do domicilio | Socioeconomic vulnerability in and outside agglomerates. |
+| SIDRA table | Table name                                                                                                                                                                                                                            | Why use it                                                     |
+|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|
+| 3379x       | Domicilios particulares ocupados e Populacao residente em domicilios particulares ocupados, nos municipios com presenca identificada de aglomerados subnormais, total e em aglomerados subnormais, e Numero de aglomerados subnormais | Size of informal-settlement population and household exposure. |
+| 3380        | Domicilios particulares ocupados em aglomerados subnormais e Media de moradores em domicilios particulares ocupados em aglomerados subnormais                                                                                         | Crowding in informal settlements.                              |
+| 3381        | Populacao residente em domicilios particulares ocupados em aglomerados subnormais, por sexo                                                                                                                                           | Population denominator by sex.                                 |
+| 3382        | Domicilios particulares permanentes em aglomerados subnormais, por forma de abastecimento de agua                                                                                                                                     | Water source in informal settlements.                          |
+| 3383        | Domicilios particulares permanentes em aglomerados subnormais, por tipo de esgotamento sanitario                                                                                                                                      | Sanitation conditions in informal settlements.                 |
+| 3384        | Domicilios particulares permanentes em aglomerados subnormais, por destino do lixo                                                                                                                                                    | Garbage disposal in informal settlements.                      |
+| 4013        | Domicilios particulares permanentes em aglomerados subnormais, por caracteristicas e localizacao predominantes do sitio urbano                                                                                                        | Urban site characteristics.                                    |
+| 4017        | Domicilios particulares permanentes em aglomerados subnormais, por acessibilidade possivel na maior parte das vias internas                                                                                                           | Access constraints for surveillance and vector control.        |
+| 4018        | Domicilios particulares permanentes em aglomerados subnormais, por numero de pavimentos predominante nas construcoes                                                                                                                  | Built-environment density proxy.                               |
+| 4019        | Domicilios particulares permanentes em aglomerados subnormais, por espacamento predominante entre as construcoes                                                                                                                      | Housing spacing and density proxy.                             |
+| 1427        | Domicilios particulares permanentes, por classes de rendimento nominal mensal domiciliar per capita, segundo o tipo de setor e a situacao do domicilio                                                                                | Socioeconomic vulnerability in and outside agglomerates.       |
 
 ### 62 - Atividade
 
@@ -161,7 +161,7 @@ Selection logic: these tables were selected because they can proxy dengue exposu
 | 3584 | Pessoas de 10 anos ou mais de idade, ocupadas na semana de referencia, por sexo e nivel de instrucao, segundo a condicao de contribuicao para instituto de previdencia oficial no trabalho principal, os grupos de horas habitualmente trabalhadas por semana no trabalho principal, os grupos de idade e a secao de atividade do trabalho principal | Occupation-sector and hours worked exposure proxy. |
 | 3594 | Pessoas de 10 anos ou mais de idade, ocupadas na semana de referencia, por situacao do domicilio e sexo, segundo a secao, divisao e classe de atividade do trabalho principal | Work sector by urban/rural status. |
 
-### 162 - Caracteristicas do domicilio
+### 162 - Caracteristicas do domicilioX
 
 | SIDRA table | Table name | Why use it |
 |---|---|---|
@@ -193,7 +193,7 @@ Selection logic: these tables were selected because they can proxy dengue exposu
 | 9897 | Moradores em domicilios particulares permanentes ocupados em favelas e comunidades urbanas, por existencia de canalizacao de agua e a principal forma de abastecimento de agua, cor ou raca, sexo e grupos de idade, segundo as Favelas e Comunidades Urbanas | Population exposure by water canalization and demographics. |
 | 9899 | Moradores em domicilios particulares permanentes ocupados em favelas e comunidades urbanas, por destino do lixo, cor ou raca, sexo e grupos de idade, segundo as Favelas e Comunidades Urbanas | Population exposure by garbage destination and demographics. |
 
-### 313 - Caracteristicas do domicilio e servicos domiciliares de saude
+### 313 - Caracteristicas do domicilio e servicos domiciliares de saudeX
 
 | SIDRA table | Table name | Why use it |
 |---|---|---|
@@ -223,20 +223,20 @@ Use these only for severe dengue, hospitalization, or vulnerability analyses. Th
 
 ### 295 - Geral
 
-| SIDRA table | Table name | Why use it |
-|---|---|---|
-| 6579 | Populacao residente estimada | Population denominator for incidence rates. |
-| 8418 | Areas urbanizadas, Loteamentos vazios, Area total mapeada e Subcategorias | Urbanization and mapped area. |
-| 9044 | Indicador 6.b.1 - Participacao das comunidades locais na gestao de agua e saneamento, por situacao do domicilio | Community participation in water/sanitation management. |
-| 6784 | Produto Interno Bruto, Produto Interno Bruto per capita, Populacao residente e Deflator | Socioeconomic control. |
-| 10346 | Numero de estabelecimentos, por especie (finalidade ou uso), e numero de edificacoes em construcao ou em reforma em setores selecionados para a Pesquisa Urbanistica do Entorno dos Domicilios, por existencia e caracteristicas do entorno, em Favelas e Comunidades Urbanas e fora de Favelas e Comunidades Urbanas - Municipios com presenca de Favelas e Comunidades Urbanas | Built environment and construction in/around favelas. |
-| 10315 | Valor do rendimento medio e mediano domiciliar per capita nominal mensal dos moradores em domicilios particulares permanentes ocupados, exclusive os cuja condicao no domicilio era pensionista, empregado(a) domestico(a) ou parente do(a) empregado(a) domestico(a), por sexo e classes simples de percentual em ordem crescente de rendimento domiciliar per capita nominal mensal | Income control. |
-| 10329 | Pessoas de 10 anos ou mais de idade residentes em domicilios particulares, ocupadas na semana de referencia, por local de exercicio do trabalho principal, se retorna do trabalho para casa 3 dias ou mais na semana, sexo e classes de rendimento nominal mensal domiciliar per capita | Work-location and return-home mobility proxy. |
-| 10330 | Pessoas de 10 anos ou mais de idade, ocupadas na semana de referencia, que, no trabalho principal, trabalhavam fora do domicilio e retornavam 3 dias ou mais na semana do trabalho para o domicilio, por cor ou raca, tempo habitual de deslocamento do domicilio para o trabalho principal, por meio de transporte em que passa mais tempo para chegar ao local de trabalho e local do exercicio do trabalho principal | Commuting and mobility exposure. |
-| 10331 | Pessoas de 10 anos ou mais de idade residentes em domicilios particulares, ocupadas na semana de referencia, que, no trabalho principal, trabalhavam fora do domicilio, por tempo habitual de deslocamento do domicilio para o trabalho principal, sexo, cor ou raca e classes de rendimento nominal mensal domiciliar per capita | Commute duration and socioeconomic control. |
-| 10332 | Pessoas de 10 anos ou mais de idade, ocupadas na semana de referencia, que, no trabalho principal, trabalhavam fora do domicilio, por meio de transporte em que passa mais tempo para chegar ao local de trabalho, nivel de instrucao e cor ou raca | Transport-mode exposure proxy. |
+| SIDRA table | Table name                                                                                                                                                                                                                                                                                                                                                                                                              | Why use it                                              |
+| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| 6579        | Populacao residente estimada                                                                                                                                                                                                                                                                                                                                                                                            | Population denominator for incidence rates.             |
+| 8418        | Areas urbanizadas, Loteamentos vazios, Area total mapeada e Subcategorias                                                                                                                                                                                                                                                                                                                                               | Urbanization and mapped area.                           |
+| 9044        | Indicador 6.b.1 - Participacao das comunidades locais na gestao de agua e saneamento, por situacao do domicilio                                                                                                                                                                                                                                                                                                         | Community participation in water/sanitation management. |
+| 6784        | Produto Interno Bruto, Produto Interno Bruto per capita, Populacao residente e Deflator                                                                                                                                                                                                                                                                                                                                 | Socioeconomic control.                                  |
+| 10346       | Numero de estabelecimentos, por especie (finalidade ou uso), e numero de edificacoes em construcao ou em reforma em setores selecionados para a Pesquisa Urbanistica do Entorno dos Domicilios, por existencia e caracteristicas do entorno, em Favelas e Comunidades Urbanas e fora de Favelas e Comunidades Urbanas - Municipios com presenca de Favelas e Comunidades Urbanas                                        | Built environment and construction in/around favelas.   |
+| 10315       | Valor do rendimento medio e mediano domiciliar per capita nominal mensal dos moradores em domicilios particulares permanentes ocupados, exclusive os cuja condicao no domicilio era pensionista, empregado(a) domestico(a) ou parente do(a) empregado(a) domestico(a), por sexo e classes simples de percentual em ordem crescente de rendimento domiciliar per capita nominal mensal                                   | Income control.                                         |
+| 10329       | Pessoas de 10 anos ou mais de idade residentes em domicilios particulares, ocupadas na semana de referencia, por local de exercicio do trabalho principal, se retorna do trabalho para casa 3 dias ou mais na semana, sexo e classes de rendimento nominal mensal domiciliar per capita                                                                                                                                 | Work-location and return-home mobility proxy.           |
+| 10330       | Pessoas de 10 anos ou mais de idade, ocupadas na semana de referencia, que, no trabalho principal, trabalhavam fora do domicilio e retornavam 3 dias ou mais na semana do trabalho para o domicilio, por cor ou raca, tempo habitual de deslocamento do domicilio para o trabalho principal, por meio de transporte em que passa mais tempo para chegar ao local de trabalho e local do exercicio do trabalho principal | Commuting and mobility exposure.                        |
+| 10331       | Pessoas de 10 anos ou mais de idade residentes em domicilios particulares, ocupadas na semana de referencia, que, no trabalho principal, trabalhavam fora do domicilio, por tempo habitual de deslocamento do domicilio para o trabalho principal, sexo, cor ou raca e classes de rendimento nominal mensal domiciliar per capita                                                                                       | Commute duration and socioeconomic control.             |
+| 10332       | Pessoas de 10 anos ou mais de idade, ocupadas na semana de referencia, que, no trabalho principal, trabalhavam fora do domicilio, por meio de transporte em que passa mais tempo para chegar ao local de trabalho, nivel de instrucao e cor ou raca                                                                                                                                                                     | Transport-mode exposure proxy.                          |
 
-### 153 - Gestao municipal de saneamento basico
+### 153 - Gestao municipal de saneamento basicox
 
 | SIDRA table | Table name | Why use it |
 |---|---|---|
