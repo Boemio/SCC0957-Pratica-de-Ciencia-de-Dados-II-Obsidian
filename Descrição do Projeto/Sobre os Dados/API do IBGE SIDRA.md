@@ -28,3 +28,4 @@ Por fim no final da pagina barra azul tem a penultima opção de salvar criar o 
 ##### EXEMPLO:
 ### https://servicodados.ibge.gov.br/api/v3/agregados/{agregado}/periodos/{periodos}/variaveis/{variavel}
 
+## Tabela 3218 :

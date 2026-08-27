@@ -1,3 +1,4 @@
-3128 Municipois com serviço de abestecimento de argua por rede geral de distribuição - [link](https://sidra.ibge.gov.br/Tabela/3128)
+3128 Municipois com serviço de abestecimento de argua por rede geral de distribuição - 
 1018 Numero de municipios, total e os com servico de esgotamento sanitario, por forma de execucao do servico - [link](https://sidra.ibge.gov.br/Tabela/1018)
 6579 Populaçao Residente estimanda  de 2001 a 2025. -[link ](https://sidra.ibge.gov.br/Tabela/6579)
+[Tabela 3218 ](https://sidra.ibge.gov.br/Tabela/3128)- Domicílios particulares permanentes, por forma de abastecimento de água, segundo a existência de banheiro ou sanitário e esgotamento sanitário, o destino do lixo e a existência de energia elétrica - Censo Demográfico.
