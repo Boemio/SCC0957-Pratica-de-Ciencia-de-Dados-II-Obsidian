@@ -1,12 +1,14 @@
 ## Primeira Etapa: Agregação e exploração de múltiplas fontes
 
 - [x] Baixar os dados da Dengue do SINAN 📅 2026-08-13 ✅ 2026-08-13
-- [x] Baixar os dados do IBGE 📅 2026-08-13 .
+- [x] Baixar os dados do IBGE 📅 2026-08-13 . ✅ 2026-08-27
 - [x] Baixar os dados de Clima do Earth Engine 📅 2026-08-13 ✅ 2026-08-20
-- [ ] Analise incial da 3218(água e lixo)
-- [ ] Análise Exploratória apenas dos dados do SINAN📅 2026-08-27
-- [ ] Explorar os schemas das tabelas do SIDRA📅 2026-08-27
-- [ ] Selecionar Agregações de cada tabela do SIDRA.
+- [x] Análise Exploratória apenas dos dados do SINAN 📅 2026-08-27 ✅ 2026-08-27
+- [x] Explorar os schemas das tabelas do SIDRA 📅 2026-08-27 ✅ 2026-08-27
+- [x] Selecionar Agregações de cada tabela do SIDRA. 📅 2026-09-03 ✅ 2026-08-27
+- [x] Criar a primeira agregação: Delineamento 2010 (forma de abastecimento de água, destino do lixo, clima em são paulo, demográfica) 📅 2026-09-03
+- [x] Criar a segunda agregação: Delineamento 2022 (forma de abastecimento de água, destino do lixo, clima em são paulo, demográfico) 📅 2026-09-03
+- [ ] Deixar o código comentado e o Obsidian organizado para a apresentação 📅 2026-09-03
 
 ---
 ## Segunda Etapa: Interpretação visual de propriedade da informação integrada
