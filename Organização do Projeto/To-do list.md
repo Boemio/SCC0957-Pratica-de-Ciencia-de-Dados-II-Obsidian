@@ -8,7 +8,7 @@
 - [x] Selecionar Agregações de cada tabela do SIDRA. 📅 2026-09-03 ✅ 2026-08-27
 - [x] Criar a primeira agregação: Delineamento 2010 (forma de abastecimento de água, destino do lixo, clima em são paulo, demográfica) 📅 2026-09-03
 - [x] Criar a segunda agregação: Delineamento 2022 (forma de abastecimento de água, destino do lixo, clima em são paulo, demográfico) 📅 2026-09-03
-- [ ] Deixar o código comentado e o Obsidian organizado para a apresentação 📅 2026-09-03
+- [x] Deixar o código comentado e o Obsidian organizado para a apresentação 📅 2026-09-03 ✅ 2026-09-03
 
 ---
 ## Segunda Etapa: Interpretação visual de propriedade da informação integrada
