@@ -22,7 +22,11 @@ A ficha de notificação da dengue no SINAN é o documento oficial obrigatório 
 ## Carregamento dos dados pelo PySUS
 O [PySUS](https://pysus.readthedocs.io/en/latest/index.html) é um pacote desenvolvido em Python que facilita o acesso, o download, a organização e a análise de dados públicos de saúde disponibilizados pelo Sistema Único de Saúde (SUS). A ferramenta simplifica o processo de obtenção e tratamento dessas informações diretamente a partir das bases do DATASUS, reduzindo a necessidade de procedimentos manuais e complexos.
 
-Por meio do PySUS, foram coletados e processados os dados referentes às fichas de notificação registradas ao longo dos últimos 23 anos, permitindo a construção de uma base histórica para a análise dos eventos notificados no período.
+Por meio do PySUS, foram coletados 24 arquivos anuais referentes às fichas de notificação de dengue no período de 2000 a 2023, permitindo a construção de uma base histórica para a análise dos eventos notificados.
+
+### Campos geográficos usados no projeto
+
+O SINAN distingue o município de residência (`ID_MN_RESI`) do município de notificação (`ID_MUNICIP`). O contrato analítico usa a residência para associar as notificações à população e às condições domiciliares do IBGE. O município de notificação é preservado para auditoria dos fluxos e das divergências entre os dois campos. As regras completas estão em [[Tratamento dos Dados]].
 
 ### Dicionário dos Dados
 ![[DIC_DADOS_ONLINE.pdf]]
